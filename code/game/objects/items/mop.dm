@@ -15,7 +15,7 @@
 	var/mopping = 0
 	var/mopcount = 0
 	var/mopcap = 15
-	var/mopspeed = 15
+	var/mopspeed = .1
 	force_string = "robust... against germs"
 	var/insertable = TRUE
 
